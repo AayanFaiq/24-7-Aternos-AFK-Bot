@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "BotTesting44.aternos.me",
+    "port": 44445,
     "version": "1.21.1"
   },
   "position": {
